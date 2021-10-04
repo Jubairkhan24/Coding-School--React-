@@ -1,7 +1,17 @@
 import React from 'react';
+import { useHistory } from 'react-router-dom';
 import TopCourses from '../TopCourses/TopCourses';
 import './Home.css'
 const Home = () => {
+
+    const history = useHistory();
+
+    const contactButton = () => {
+        history.push('./contactus');
+    }
+    const courseButton = () => {
+        history.push('./services')
+    }
     return (
         <div>
             <div className="home-style">
@@ -10,8 +20,8 @@ const Home = () => {
                     <h3 className="">A online educational website for programming</h3>
                 </div>
                 <div className="button-body">
-                    <button className="button-style btn-primary btn btn-lg">Start Course</button>
-                    <button className="button-style btn-primary btn  btn-lg">Contact Us</button>
+                    <button className="button-style btn-primary btn btn-lg" onClick={courseButton}>Start Course</button>
+                    <button className="button-style btn-primary btn btn-lg" onClick={contactButton} >Contact Us</button>
                 </div>
             </div>
             <div>

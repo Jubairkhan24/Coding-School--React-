@@ -1,6 +1,9 @@
 import React from 'react';
+import { useParams } from 'react-router';
 
 const ContactUs = () => {
+    const params = useParams()
+    console.log(params)
     return (
         <div>
             <h1 className="text-center my-5 text-light">Please Sign up to enroll courses</h1>
@@ -14,10 +17,6 @@ const ContactUs = () => {
                     <label for="exampleInputPassword1" className="form-label text-light">Password</label>
                     <input type="password" className="form-control" id="exampleInputPassword1" />
                 </div>
-                {/* <div class="mb-3 form-check">
-                    <input type="checkbox" class="form-check-input" id="exampleCheck1 text-light" />
-                    <label class="form-check-label" for="exampleCheck text-light">Save Password</label>
-                </div> */}
                 <button type="submit" className="btn btn-outline-primary">Submit</button>
             </form>
             <h3 className="my-4 text-light">Already have an account?</h3>

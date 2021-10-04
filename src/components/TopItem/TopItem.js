@@ -2,8 +2,7 @@ import React from 'react';
 import './TopItem.css'
 
 const TopItem = (props) => {
-    const { name, img, cost, Instructor, duration } = props.topitem
-    // console.log(props.topitem.name)
+    const { name, img, cost, Instructor } = props.topitem
     return (
         <div className="topitem-card-body">
             <div className="">

@@ -16,7 +16,6 @@ const Services = () => {
                 <h1>All Courses</h1>
             </div>
             <div className="card-container">
-                {/* <h3>Items: {items.length}</h3> */}
                 {
                     items.map(item => <Item
                         key={item.id}
@@ -25,8 +24,6 @@ const Services = () => {
                 }
             </div>
         </div>
-
-
     );
 };
 

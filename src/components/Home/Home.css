@@ -1,5 +1,4 @@
 .home-style {
-    /* background-color: #213F47; */
     background-image: url(../../images/header.jfif);
     background-repeat: no-repeat;
     background-size: cover;
@@ -9,15 +8,18 @@
 .home-text-style {
     padding-top: 145px;
 }
-.button-body {
+ .button-body {
     padding: 20px;
-    
-    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 }
 .button-style {
     font-size: 20px;
     color: white;
     background-color: black; 
     margin-left: 35px;
-    
+} 
+.button-style a {
+    background-color: black; 
 }

@@ -1,6 +1,6 @@
 [
     {
-        "id": 2,
+        "id": 242563,
         "name": "Python",
         "img": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/12/Python-Programming.png",
         "cost": "Free",
@@ -9,7 +9,7 @@
         "type": "Programming Language"
     },
     {
-        "id": 6,
+        "id": 63425,
         "name": "Java Script",
         "img": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/s400/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
         "cost": "3000 Bdt",
@@ -18,8 +18,8 @@
         "type": "Programming Language"
     },
     {
-        "id": 8,
-        "name": "Full Stack Web Development",
+        "id": 88573,
+        "name": "Full Stack Development",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw3wMwdAp_9tsCWAoYKmJnD3HOrmW7ZXQtwg&usqp=CAU",
         "cost": "5000 Bdt",
         "Instructor": "Jhankar Mahbub",
@@ -27,7 +27,7 @@
         "type": "Web Development"
     },
     {
-        "id": 5,
+        "id": 5456234,
         "name": "C Programming",
         "img": "https://content.techgig.com/thumb/msid-78576603,width-860,resizemode-4/4-most-common-C-programming-mistakes-that-you-must-avoid.jpg?72434",
         "cost": "2000 Bdt",

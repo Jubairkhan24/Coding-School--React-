@@ -9,9 +9,8 @@
     border: 1px solid gray;
     border-radius: 10px;
     margin: 10px;
-    height: 450px;
+    height: 460px;
     width: 425px;
-    /* background-color: rgb(44, 49, 66); */
     color: white;
 } 
 .card-body:hover {
