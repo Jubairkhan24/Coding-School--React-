@@ -1,0 +1,7 @@
+.top-courses-card-container  {
+    display: flex;
+    grid-gap: 30px;
+    align-items: center;
+    margin-left: 14px;
+    padding: 30px;
+}

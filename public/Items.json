@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Html",
+        "img": "https://repository-images.githubusercontent.com/134285701/635de980-586d-11ea-9220-1a3211239c30",
+        "cost": "Free",
+        "Instructor": "Rakibul Hasan",
+        "duration": "7 days",
+        "type": "Programming Language"
+    },
+    {
+        "id": 2,
+        "name": "Python",
+        "img": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/12/Python-Programming.png",
+        "cost": "Free",
+        "Instructor": "Tamim Shahriar Subeen",
+        "duration": "20 days",
+        "type": "Programming Language"
+    },
+    {
+        "id": 3,
+        "name": "MS Power Point",
+        "img": "https://www.techadvisor.com/cmsdata/features/3691171/microsoftpowerpoint1_thumb800.png",
+        "cost": "Free",
+        "Instructor": "Sadman Sakib",
+        "duration": "5 days",
+        "type": "MS Tool"
+    },
+    {
+        "id": 4,
+        "name": "Adobe PhotoShop",
+        "img": "https://getgamez.net/wp-content/uploads/2019/11/Photoshop-CC-2020.jpg",
+        "cost": "4000 bdt",
+        "Instructor": "Antik Mahmud",
+        "duration": "30 days",
+        "type": "Graphics Design"
+    },
+    {
+        "id": 5,
+        "name": "C Programming",
+        "img": "https://content.techgig.com/thumb/msid-78576603,width-860,resizemode-4/4-most-common-C-programming-mistakes-that-you-must-avoid.jpg?72434",
+        "cost": "2000 Bdt",
+        "Instructor": "Tamim Shahriar Subeen",
+        "duration": "30 days",
+        "type": "Programming Language"
+    },
+    {
+        "id": 6,
+        "name": "Java Script",
+        "img": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/s400/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
+        "cost": "300 Bdt",
+        "Instructor": "Sumit Saha",
+        "duration": "15 days",
+        "type": "Programming Language"
+    },
+    {
+        "id": 7,
+        "name": "React",
+        "img": "https://i.ytimg.com/vi/JPT3bFIwJYA/maxresdefault.jpg",
+        "cost": "Free",
+        "Instructor": "Sumit Saha",
+        "duration": "10 days",
+        "type": "Web Framework"
+    },
+    {
+        "id": 8,
+        "name": "Full Stack Web Development",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw3wMwdAp_9tsCWAoYKmJnD3HOrmW7ZXQtwg&usqp=CAU",
+        "cost": "5000 Bdt",
+        "Instructor": "Jhankar Mahbub",
+        "duration": "60 days",
+        "type": "Web Development"
+    },
+    {
+        "id": 9,
+        "name": "Adobe Premiere Pro",
+        "img": "https://i1.wp.com/filecr.com/wp-content/uploads/2021/05/Adobe-Premiere-Pro-2021-Free-Download.jpg",
+        "cost": "300o Bdt",
+        "Instructor": "Samsuddin Sarder",
+        "duration": "30 days",
+        "type": "Video Editing"
+    }
+]

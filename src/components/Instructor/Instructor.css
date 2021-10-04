@@ -1,0 +1,19 @@
+.instructor-img-resize {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    align-items: center;
+    margin-top: 25px;
+} 
+.instructor-card-body {
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 10px;
+    height: 450px;
+    width: 420px;
+    /* background-color: rgb(44, 49, 66); */
+    color: white;
+} 
+.topitem-card-body:hover {
+    background-color: rgba(51, 25, 13, 0.267);
+}

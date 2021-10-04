@@ -1,0 +1,23 @@
+.home-style {
+    /* background-color: #213F47; */
+    background-image: url(../../images/header.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    color: white;
+}
+.home-text-style {
+    padding-top: 145px;
+}
+.button-body {
+    padding: 20px;
+    
+    
+}
+.button-style {
+    font-size: 20px;
+    color: white;
+    background-color: black; 
+    margin-left: 35px;
+    
+}

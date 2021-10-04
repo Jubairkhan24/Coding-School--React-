@@ -1,0 +1,17 @@
+.footer-style {
+    background-color: #0C223E;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid #11253fc7;
+}
+.footer-style h2 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.footer-style p {
+    color: white;
+}
