@@ -18,6 +18,7 @@ const Home = () => {
                 <div className="home-text-style">
                     <h1 className="">Welcome to Coding Vidyalaya</h1>
                     <h3 className="">A online educational website for programming</h3>
+                    {/* <h2>this is editable line</h2> */}
                 </div>
                 <div className="button-body">
                     <button className="button-style btn-primary btn btn-lg" onClick={courseButton}>Start Course</button>
